@@ -7,7 +7,8 @@
 
 
 ### Project
-| Project | Description | Tech Stack |
+| Project | Description | Period |
+|[Omni-Card](https://github.com/2025-Gachon-capstone)|소비자 구매기반 맞춤형 카드 헤택 서비스|2025/03~|
 
 
 
