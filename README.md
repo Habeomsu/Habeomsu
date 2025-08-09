@@ -5,15 +5,15 @@
 
 ### Tech Stack
 
-**프론트엔드** 
+**Frontend** 
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,react&theme=light)](https://skillicons.dev)
 
-**백엔드** 
+**Backend** 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask&theme=light)](https://skillicons.dev)
 
-**인프라 & 배포**  
+**infra & DevOps**  
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=light)](https://skillicons.dev)
 
