@@ -8,6 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,react&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=light)](https://skillicons.dev)
+
 
 ### Project
 | Project | Description | Period |
