@@ -15,5 +15,6 @@
 |[Epitome](https://github.com/Gachon-P-project-Epitome/server)|유사도 기반 음악 추천 서비스|2024/11 ~ 2024/12|
 
 
+![habeomsu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=habeomsu&show_icons=true&theme=radical) &nbsp;
 
 
