@@ -6,7 +6,7 @@
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react&theme=light)](https://skillicons.dev)
 
 
 ### Project
