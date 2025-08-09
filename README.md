@@ -4,10 +4,12 @@
 도메인을 이해해 문제를 해결하는 개발자입니다.
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask&theme=light)](https://skillicons.dev)
 
+**프론트엔드**
 [![My Skills](https://skillicons.dev/icons?i=javascript,react&theme=light)](https://skillicons.dev)
-
+**백엔드** 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask&theme=light)](https://skillicons.dev)
+**인프라 & 배포** 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws&theme=light)](https://skillicons.dev)
 
 
