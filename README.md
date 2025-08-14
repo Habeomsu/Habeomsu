@@ -23,5 +23,7 @@
 |[Algorithm-Study](https://github.com/Habeomsu/ALStudy_backend)|그룹 기반 알고리즘 스터디 서비스|2025/01 ~ 2025/04|
 |[Epitome](https://github.com/Gachon-P-project-Epitome/server)|유사도 기반 음악 추천 서비스|2024/11 ~ 2024/12|
 
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbs5186)](https://solved.ac/hbs5186/)
 
 
